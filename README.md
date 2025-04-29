@@ -31,7 +31,7 @@ This project involves a comprehensive **Exploratory Data Analysis (EDA)** of a d
 ```
 📁 Space-Missions-EDA/
 ├── Space_Corrected.csv         # Original dataset
-├── space_missions_analysis.ipynb # Jupyter Notebook with full analysis
+├── space_missions_analysis.ipynb #Google Colab Notebook with full analysis
 └── README.md                   # Project description
 ```
 
